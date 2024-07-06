@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Ayushkathoke/Real-Time-Code-Collaboration-web-app/assets/113281600/7cb2d199-dcfb-487c-a037-1541bd442d12)
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
